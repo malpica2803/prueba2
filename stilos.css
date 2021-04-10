@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  background: blue;
+}
+.he {
+  flex-direction: row;
+  background-color: aquamarine;
+  border: 1px solid black;
+}
+.caja {
+  color: white;
+}
